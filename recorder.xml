@@ -1,0 +1,9 @@
+﻿<recorder>
+    <words>
+        <word id="1" name="Tecnologia" />
+    </words>
+    <actors>
+        <actor id="1" name="Vinícius Godoy" />
+        <actor id="2" name="Alceu Britto" />
+    </actors>
+</recorder>
